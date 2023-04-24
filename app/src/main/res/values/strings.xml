@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cap</string>
+    <string name="actualizar_datos">Actualizar Datos</string>
+    <string name="solicitar_charla">Solicitar Charla</string>
+</resources>
